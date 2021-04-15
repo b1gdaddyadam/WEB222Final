@@ -1,0 +1,27 @@
+/* Adam Lariviere 021104112 alariviere@myseneca.ca Have worked on this code. */
+
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+
+#forform {
+  border-style: solid;
+  border-color: skyblue;
+  border-radius: 10px;
+  border-width: 2px;
+}
+
+#titles {
+  font-weight: bold;
+}
+
+#latitudewarning {
+  color: red;
+}
+
+#longitudewarning {
+  color: red;
+}
